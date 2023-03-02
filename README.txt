@@ -1,0 +1,1 @@
+Proyecto final integrador "CV - Eric Morrison" realizado por el alumno Nicolás Smalinsky para el curso "Primeros pasos en el desarrollo Front End" de Ticmas Academy en el Marco del Argentina Programa 4.0
